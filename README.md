@@ -10,7 +10,7 @@ GitHub: [@nwtn](http://github.com/nwtn/)
 Email: <david@davidnewton.ca>  
 
 * [This presentation on GitHub](https://github.com/nwtn/pres-respimg-perf-a11yto)
-* [This presentation on Speaker Deck](https://speakerdeck.com/newtron/improving-performance-with-responsive-images-a11yto)
+* [This presentation on Speaker Deck](https://speakerdeck.com/newtron/using-responsive-images-responsibly-performance-and-accessibility)
 
 
 ## Quotes
@@ -19,9 +19,20 @@ Email: <david@davidnewton.ca>
 
 * “Following these guidelines will make content accessible to a wider range of people with disabilities, including blindness and low vision, deafness and hearing loss, learning disabilities, cognitive limitations, limited movement, speech disabilities, photosensitivity and combinations of these. Following these guidelines will also often make your Web content more usable to users in general.” –<i>[Web Content Accessibility Guidelines 2.0](http://www.w3.org/TR/WCAG20/)</i>
 
-* “The goal of Web design is not merely to dazzle, but to deliver information to the widest audience possible.	...Compromise should not come at the expense of the user, but rather in terms of the native capabilities of the user’s choice of device....	Leave no one behind.” —Steven Champeon, ‘[Inclusive Web Design for the Future](https://web.archive.org/web/20130821155239/http://www.hesketh.com/thought-leadership/our-publications/inclusive-web-design-future)’* “Rather than creating disconnected designs, each tailored to a particular device or browser, we should instead treat them as facets of the same experience.” —Ethan Marcotte, <i>[Responsive Web Design](http://www.abookapart.com/products/responsive-web-design)</i>* “Many of us are fortunate to live in high bandwidth regions, but there are still large portions of the world that do not. By keeping your client side code small and lightweight, you can literally open your product up to new markets.” —Chris Zacharias, ‘[Page Weight Matters](http://blog.chriszacharias.com/page-weight-matters)’
-* “Universal design is the design of products and environments to be usable by all people, to the greatest extent possible, without the need for adaptation or specialized design.” —[Ronald L. Mace](http://www.ncsu.edu/ncsu/design/cud/about_ud/about_ud.htm)
-* “More human beings today have access to a cellphonethan...a clean toilet.” —Anand Giridharadas, ‘[Where a Cellphone Is Still Cutting Edge](http://www.nytimes.com/2010/04/11/weekinreview/11giridharadas.html?_r=0)’, <i>The New York Times</i>
+* “The goal of Web design is not merely to dazzle, but to deliver information to the widest audience possible.
+
+	...Compromise should not come at the expense of the user, but rather in terms of the native capabilities of the user’s choice of device....
+
+	Leave no one behind.” —Steven Champeon, ‘[Inclusive Web Design for the Future](https://web.archive.org/web/20130821155239/http://www.hesketh.com/thought-leadership/our-publications/inclusive-web-design-future)’
+
+* “Rather than creating disconnected designs, each tailored to a particular device or browser, we should instead treat them as facets of the same experience.” —Ethan Marcotte, <i>[Responsive Web Design](http://www.abookapart.com/products/responsive-web-design)</i>
+
+* “Many of us are fortunate to live in high bandwidth regions, but there are still large portions of the world that do not. By keeping your client side code small and lightweight, you can literally open your product up to new markets.” —Chris Zacharias, ‘[Page Weight Matters](http://blog.chriszacharias.com/page-weight-matters)’
+
+* “Universal design is the design of products and environments to be usable by all people, to the greatest extent possible, without the need for adaptation or specialized design.” —[Ronald L. Mace](http://www.ncsu.edu/ncsu/design/cud/about_ud/about_ud.htm)
+
+* “More human beings today have access to a cellphone
+than...a clean toilet.” —Anand Giridharadas, ‘[Where a Cellphone Is Still Cutting Edge](http://www.nytimes.com/2010/04/11/weekinreview/11giridharadas.html?_r=0)’, <i>The New York Times</i>
 
 ## References
 
